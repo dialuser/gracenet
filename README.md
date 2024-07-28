@@ -14,3 +14,5 @@ _Sun, A. Y., Scanlon, B. R., Zhang, Z., Walling, D., Bhanja, S. N., Mukherjee, A
 
 Postprocessing routines, ```plotAllBasinCorrelationRev.py```, ```plotPredictionResults.py```
 
+Note: the India groundwater well database is curated by co-author S.N. Bhanja, who's currently a postdoc at the Oakridge National Lab.
+
